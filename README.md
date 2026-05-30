@@ -2,11 +2,9 @@
 
 <div align="center">
 
-![Preview](https://ayuamirah-portfolio.vercel.app)
-
 **Mahasiswa Sistem Informasi · Universitas Brawijaya · Aspiring Product Manager**
 
-[![Website](https://img.shields.io/badge/🌐_Live_Website-Visit-8b2252?style=for-the-badge)](https://ayu-amirah-k-a-portfolio.vercel.app/)
+[![Website](https://img.shields.io/badge/🌐_Live_Website-ayuamirah--portfolio.vercel.app-8b2252?style=for-the-badge)](https://ayuamirah-portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-ayuamirahka-181717?style=for-the-badge&logo=github)](https://github.com/ayuamirahka)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayuamirahka-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ayuamirahka)
 
@@ -57,6 +55,7 @@ Website ini dibangun sebagai tugas individu mata kuliah **Desain Antarmuka Pengg
 ## 🎨 Design System
 
 ### Color Palette
+
 | Token | Hex | Penggunaan |
 |---|---|---|
 | Primary Background | `#FAFAF8` | Latar belakang utama |
@@ -68,6 +67,7 @@ Website ini dibangun sebagai tugas individu mata kuliah **Desain Antarmuka Pengg
 | Text Muted | `#6B6566` | Deskripsi dan caption |
 
 ### Typography
+
 | Style | Font | Weight | Size |
 |---|---|---|---|
 | Hero Name | Poppins | 800 | 88px |
@@ -82,12 +82,12 @@ Website ini dibangun sebagai tugas individu mata kuliah **Desain Antarmuka Pengg
 ## 🛠️ Teknologi
 
 ```
-HTML5 Semantik    — Struktur halaman
-CSS3              — Styling, Grid, Flexbox, Media Queries, Transitions
+HTML5 Semantik     — Struktur halaman dengan elemen semantik
+CSS3               — Styling, Grid, Flexbox, Media Queries, Transitions
 JavaScript Vanilla — IntersectionObserver, hamburger menu, active nav
-Google Fonts      — Poppins (300, 400, 500, 600, 700, 800)
-Vercel            — Hosting dan deployment
-GitHub            — Version control
+Google Fonts       — Poppins (300, 400, 500, 600, 700, 800)
+Vercel             — Hosting dan deployment
+GitHub             — Version control
 ```
 
 ---
@@ -109,7 +109,7 @@ AyuAmirahK.A.-portfolio-/
 # Clone repository
 git clone https://github.com/ayuamirahka/AyuAmirahK.A.-portfolio-.git
 
-# Buka folder
+# Masuk ke folder
 cd AyuAmirahK.A.-portfolio-
 
 # Buka di browser langsung
@@ -125,13 +125,13 @@ Tidak memerlukan build tool atau dependensi tambahan.
 
 ## 🌐 Deployment
 
-Website di-deploy menggunakan **Vercel** dengan konfigurasi auto-deploy dari branch `main`. Setiap perubahan yang di-push ke GitHub akan otomatis ter-deploy dalam hitungan detik.
+Website di-deploy menggunakan **Vercel** dengan konfigurasi auto-deploy dari branch `main`. Setiap perubahan yang di-push ke GitHub akan otomatis ter-deploy.
 
 ```
 Repository GitHub → Push ke main → Auto Deploy → Live di Vercel
 ```
 
-**Live URL:** https://ayu-amirah-k-a-portfolio.vercel.app/
+**Live URL:** https://ayuamirah-portfolio.vercel.app/
 
 ---
 
@@ -151,6 +151,7 @@ Repository GitHub → Push ke main → Auto Deploy → Live di Vercel
 ## 👩‍💻 Tentang Saya
 
 **Ayu Amirah Kusumaningtyas Atarian**
+
 Mahasiswa Sistem Informasi Universitas Brawijaya angkatan 2025 yang passionate di bidang Product Management. Aktif sebagai Product Manager di BCC FILKOM, Junior Staff di SGE FILKOM, dan Treasurer di DevGirls.
 
 - 📧 Email: aknatarian@gmail.com
