@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Preview](https://ayuamirah-portfolio.vercel.app/)
+![Preview](https://ayuamirah-portfolio.vercel.app)
 
 **Mahasiswa Sistem Informasi · Universitas Brawijaya · Aspiring Product Manager**
 
